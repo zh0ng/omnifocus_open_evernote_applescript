@@ -8,7 +8,7 @@ This script can help you create or open a note of Evernote for the selected Omni
   - The source URL of the new Evernote note will be assigned to the link of the OmniFocus item.
   - The context and project will be added as tags in Evernote.
 
-  [Download from here](https://github.com/zh0ng/omnifocus_open_evernote_applescript/blob/master/open_evernote.scpt?raw=true)
+  [Download from here](https://github.com/zh0ng/omnifocus_open_evernote_applescript/raw/master/Evernote%20Notes.scpt)
 
 ## Installation
 1. In the OmniFocus menu, go to *Help* > *Open Scripts Folder*.
